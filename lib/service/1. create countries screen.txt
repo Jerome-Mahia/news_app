@@ -1,0 +1,6 @@
+1. create countries screen
+2. create a country model
+3. add model factory
+4. add country service - api call 
+5. add country provider - makes the country selected accessible
+6. add countries to countries screen (dropdown)
